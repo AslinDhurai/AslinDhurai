@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Aslin Dhurai
 
-🎯 A passionate **DevOps Engineer** and **Software Developer** blending code, cloud, and automation to deliver scalable, reliable, and secure solutions.
+🎯 A passionate **DevOps Engineer** blending code, cloud, and automation to deliver scalable, reliable, and secure solutions.
 
 ## 👨‍💻 About Me
 
