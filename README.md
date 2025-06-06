@@ -1,37 +1,56 @@
 # 👋 Hey there! I'm Aslin Dhurai
 
-🎯 A passionate **DevOps Engineer** blending code, cloud, and automation to deliver scalable, reliable, and secure solutions.
+🎯 A passionate **DevOps Engineer** and **Software Developer** blending code, cloud, and automation to deliver scalable, reliable, and secure solutions.
+
+---
+
+## 🏷️ Tech Stack & Tools
+
+### 🧰 DevOps & CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+
+### 🖥️ Backend & Frontend
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🗃️ Database & Config
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
 
 ## 👨‍💻 About Me
 
-- 🔧 Currently working on automating CI/CD pipelines using **Jenkins**, **Docker**, and **Kubernetes**
-- ☁️ Skilled in cloud infrastructure on **AWS** and **Azure**
-- 📈 Hands-on experience with monitoring and observability tools like **Prometheus**, **Grafana**, and **Datadog**
-- ⚙️ Proficient with **Ansible** for configuration management and **Terraform** for infrastructure as code
-- 💻 Experienced in backend development with **Spring Boot**, frontend with **Vue.js**, and database management using **MySQL**
-- 🔐 Implemented reverse proxy with SSL using **NGINX** and **Certbot**
-- 📦 Built and deployed applications using **GitHub Actions**, **Shell Scripts**, and **WSL**
-- 🧠 Recently worked on social media emotion & misinformation detection using **RoBERTa** and **BART**
+- 🔧 Automating CI/CD pipelines using **Jenkins**, **Docker**, and **Kubernetes**
+- ☁️ Skilled in **AWS** and **Azure** cloud platforms
+- 📈 Monitoring systems using **Prometheus**, **Grafana**, and **Datadog**
+- ⚙️ Configuration management and IAC using **Ansible** and **Terraform**
+- 💻 Backend with **Spring Boot**, Frontend with **Vue.js**
+- 🔐 Reverse proxy setup using **NGINX** and **Certbot**
+- 📦 Application deployment with **GitHub Actions**, **Shell Scripting**, **WSL**
+- 🧠 Social media analysis project using **RoBERTa** and **BART**
 
-## 🛠️ Tech Stack
-
-| Domain               | Tools & Technologies                                                                 |
-|----------------------|--------------------------------------------------------------------------------------|
-| **DevOps & IAC**     | Jenkins, Docker, Kubernetes, Ansible, Terraform, GitHub Actions                     |
-| **Monitoring**       | Prometheus, Grafana, Datadog                                                         |
-| **Cloud Platforms**  | AWS (EC2, S3, IAM, Route 53, Transfer Family), Azure (VMs, Networking, IAM)          |
-| **Configuration**    | NGINX, Certbot, Shell Scripting                                                      |
-| **Backend**          | Java, Spring Boot, Node.js                                                           |
-| **Frontend**         | Vue.js, HTML, CSS, JavaScript                                                        |
-| **Database**         | MySQL, MongoDB                                                                       |
-| **ML/NLP**           | Python, Transformers (RoBERTa, BART), Matplotlib                                     |
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslindhurai&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslindhurai&theme=tokyonight" />
-</p>
+---
 
 ## 📫 Let's Connect
 
