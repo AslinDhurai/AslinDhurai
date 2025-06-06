@@ -2,6 +2,8 @@
 
 🎯 A passionate **DevOps Engineer** blending code, cloud, and automation to deliver scalable, reliable, and secure solutions.
 
+---
+
 ## 👨‍💻 About Me
 
 - 🔧 Currently working on automating CI/CD pipelines using **Jenkins**, **Docker**, and **Kubernetes**
@@ -12,6 +14,8 @@
 - 🔐 Implemented reverse proxy with SSL using **NGINX** and **Certbot**
 - 📦 Built and deployed applications using **GitHub Actions**, **Shell Scripts**, and **WSL**
 - 🧠 Recently worked on social media emotion & misinformation detection using **RoBERTa** and **BART**
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -26,15 +30,19 @@
 | **Database**         | MySQL, MongoDB                                                                       |
 | **ML/NLP**           | Python, Transformers (RoBERTa, BART), Matplotlib                                     |
 
+---
+
 ## 🏅 Microsoft Learn Achievements
 
-Here are some of my verified achievements from [Microsoft Learn](https://learn.microsoft.com/en-us/users/aslindhurai-6583):
+Here are some of my verified achievements from [Microsoft Learn](https://learn.microsoft.com/en-us/users/aslindhurai/achievements):
 
-<a href="https://learn.microsoft.com/en-us/users/aslindhurai-6583/achievements">
+<a href="https://learn.microsoft.com/en-us/users/aslindhurai/achievements">
   <img src="https://img.shields.io/badge/Microsoft%20Learn-View%20My%20Badges-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Badges" />
 </a>
 
 > 📌 *Explore my modules, certifications, and skills earned from Microsoft’s official learning platform!*
+
+---
 
 ## 📫 Let's Connect
 
