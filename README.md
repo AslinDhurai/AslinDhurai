@@ -26,12 +26,15 @@
 | **Database**         | MySQL, MongoDB                                                                       |
 | **ML/NLP**           | Python, Transformers (RoBERTa, BART), Matplotlib                                     |
 
-## 📈 GitHub Stats
+## 🏅 Microsoft Learn Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslindhurai&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslindhurai&theme=tokyonight" />
-</p>
+Here are some of my verified achievements from [Microsoft Learn](https://learn.microsoft.com/en-us/users/aslindhurai-6583):
+
+<a href="https://learn.microsoft.com/en-us/users/aslindhurai-6583/achievements">
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-View%20My%20Badges-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Badges" />
+</a>
+
+> 📌 *Explore my modules, certifications, and skills earned from Microsoft’s official learning platform!*
 
 ## 📫 Let's Connect
 
