@@ -19,16 +19,16 @@
 
 ## 🛠️ Tech Stack
 
-| Domain               | Tools & Technologies                                                                 |
-|----------------------|--------------------------------------------------------------------------------------|
-| **DevOps & IAC**     | Jenkins, Docker, Kubernetes, Ansible, Terraform, GitHub Actions, Git, Jira, ArgoCD   |
-| **Monitoring**       | Prometheus, Grafana, Datadog                                                         |
-| **Cloud Platforms**  | AWS (EC2, S3, IAM, Route53, ECS, SNS, CloudWatch), Azure (VMs, Networking, IAM)      |
-| **Configuration**    | NGINX, Certbot, Shell Scripting, JSON, YAML                                          |
-| **Backend**          | Java, Spring Boot, Node.js, Python                                                   |
-| **Frontend**         | Vue.js, HTML, CSS, JavaScript, Bootstrap                                             |
-| **Database**         | MySQL, MongoDB, PostgreSQL                                                           |
-| **ML/NLP**           | Python, Transformers (RoBERTa, BART), Matplotlib, TensorFlow                         |
+| Domain               | Tools & Technologies                                                                       |
+|----------------------|--------------------------------------------------------------------------------------------|
+| **DevOps & IAC**     | Jenkins, Docker, Kubernetes, Ansible, Terraform, GitHub Actions, Git, Jira, ArgoCD         |
+| **Monitoring**       | Prometheus, Grafana, Datadog                                                               |
+| **Cloud Platforms**  | AWS (EC2, S3, IAM, Route53, ECS, SNS, CloudWatch), Azure (VMs, Networking, IAM)            |
+| **Configuration**    | NGINX, Apache, Certbot, Bash/Shell Scripting, Powershell, JSON, YAML                       |
+| **Backend**          | Java, Spring Boot, Node.js, Python                                                         |
+| **Frontend**         | Vue.js, HTML, CSS, JavaScript, Bootstrap                                                   |
+| **Database**         | MySQL, MongoDB, PostgreSQL                                                                 |
+| **ML/NLP**           | Python, Transformers (RoBERTa, BART), Matplotlib, TensorFlow                               |
 
 ---
 
