@@ -46,7 +46,7 @@ Here are some of my verified achievements from [Microsoft Learn](https://learn.m
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/aslindhurai/](https://www.linkedin.com/in/aslin-dhurai-67471925b/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/aslin-dhurai-67471925b/])
 - ✉️ Email: aslindhurai1@gmail.com
 
 ---
